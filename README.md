@@ -1,4 +1,4 @@
-# Andrey-Ladoshkin-Quant-task
+Quant-task
 
 
 Задание.
